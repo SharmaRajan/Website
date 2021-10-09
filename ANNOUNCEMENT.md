@@ -1,6 +1,6 @@
 # CYBERJUNK OCTAFEST 2021
 
-**Website Creation Competition**
+🎉 **Website Creation Competition** 🌏
 
 Calling all Web Devs and Designers! We now have a platform for you to put your skills to the test. The objective is simple: Create a website for the company ‘Cyberjunk’. Cyberjunk is a cybersecurity-focused company, which collects and provides the best resources available, within clicking distance.
 
